@@ -53,3 +53,4 @@ $ make -j4
 # 6.image
 the binary image name like this in bin/ramips/:
 openwrt-ramips-mt7688-Widora-squashfs-sysupgrade.bin
+# openwrt_widora
